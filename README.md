@@ -21,4 +21,4 @@ Fahad Chowdhury\
 [GitHub](https://github.com/Fahad-Chowdhury)
 
 
-![Image Link](https://github.com/Fahad-Chowdhury/QuizWhiz-app/blob/main/app1.JPG)
+![Image Link](https://github.com/Fahad-Chowdhury/QuizWhiz-app/blob/main/app.JPG)
